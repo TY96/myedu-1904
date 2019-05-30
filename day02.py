@@ -1,1 +1,0 @@
-alist = ['qwer',1234,'dad']
