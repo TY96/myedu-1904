@@ -10,8 +10,8 @@ def test_1 ():
 
 
 
-if __name__ == '__main__':
-    test_1()
+
+
 
 
 def X (m,n):
@@ -20,17 +20,23 @@ def X (m,n):
 
 
 def _day():
-    w = '我又不乱来'
-    W = 233333
-    print ('%s%s'%(w,W))
-    print (type(str(W)))
-    print(str(W)+w)
-    print('%s%s'%(w,W))
-
-
-
+    pass
+    # w = '我又不乱来'
+    # W = 233333
+    # print ('%s%s'%(w,W))
+    # print (type(str(W)))
+    # print(str(W)+w)
+    # print('%s%s'%(w,W))
+ls = {'yifu':'naike','shouji':'xiaomi'}
+cd = {'qiabi':'wenju'}
+A = [1,12,12,12,4,1,2,5,2]
+import json
+def lianxi():
+    A.sort(reverse=True)
+    B=len(A)
+    print(B)
 
 if __name__ == '__main__':
-    X('你好,','世界')
-    _day()
+    lianxi()
+
 
