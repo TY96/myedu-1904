@@ -32,9 +32,29 @@ cd = {'qiabi':'wenju'}
 A = [1,12,12,12,4,1,2,5,2]
 import json
 def lianxi():
-    A.sort(reverse=True)
-    B=len(A)
-    print(B)
+    # A.sort(reverse=True)
+    # B=len(A)
+    # print(B)
+    # X = [2,3,3,31,3,4,56,4,1,2]
+    # Y = list(set(X))
+    # print(type(Y))
+    ls['naike'] = 'chenshan'
+    print(ls)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 if __name__ == '__main__':
     lianxi()
