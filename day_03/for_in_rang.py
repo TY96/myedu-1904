@@ -17,19 +17,19 @@ def for_lianxi():
     #         # for x in range (3):
     #         #     print('3')
     #         print(',')
-    # for i in range (10):
-    #     print(i)
-    #     if i == 6:
-    #         break
-    # for j in range (10):
-    #     if j == 5 :
-    #         continue
-    #     print(j)
-    a = 0
-    for i in range (1,51):
-        if i % 2 == 1 :
-            a = a + i 
-    print(a)
+    for i in range (10):
+        print(i)
+        if i == 6:
+            break
+    for j in range (10):
+        if j == 5 :
+            continue
+        print(j)
+    # a = 0
+    # for i in range (1,51):
+    #     if i % 2 == 1 :
+    #         a = a + i
+    # print(a)
 
 
 

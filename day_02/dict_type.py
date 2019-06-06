@@ -9,7 +9,7 @@ def dict_updata ():
     print(X['username'])
     X['password'] = 147258
     print(X['password'])
-    X.
+
 def dict_delete():
     X.pop('username')
     X.pop('password')
